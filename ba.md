@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Etude de Marché
-subtitle: C'est mon monde
+title: Business Analyst
+subtitle: C'est mon nouveau monde
 ---
 
 My name is Inigo Montoya. I have the following qualities:
@@ -13,4 +13,4 @@ What else do you need?
 
 ### my history
 
-Là où tout à commencer
+Là où la suite boum
