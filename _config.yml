@@ -14,8 +14,8 @@ author: Aurélien Daval
 navbar-links:
   A popos: "aboutme"
   Activités:
-    - Etude de Marché: "Activité 1" 
-    - Business Analyst: "Activité 2" 
+    - Etude de Marché: "survey" 
+    - Business Analyst: "ba" 
   Blog: "Blog"
 
 # --- Local development options ---
