@@ -12,7 +12,7 @@ author: Aurélien Daval
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  A popos: "aboutme"
+  A propos: "aboutme"
   Activités:
     - Etude de Marché: "survey" 
     - Business Analyst: "ba" 
