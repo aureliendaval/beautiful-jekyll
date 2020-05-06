@@ -16,7 +16,8 @@ navbar-links:
   Activités:
     - Etude de Marché: "survey" 
     - Business Analyst: "ba" 
-  Blog: "Blog"
+  Blog: ""
+nav-search: "search"
 
 # --- Local development options ---
 
