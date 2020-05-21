@@ -1,8 +1,17 @@
 ---
 layout: page
 title: Mon parcours 
-subtitle: Connaissance et Compétentes
+subtitle: Connaissances et Compétentes
 ---
+
+
+
+
+
+Expert en traitement de l'information, interprétation et présentation 
+
+Expert of information processing (using statistical methods, econometric or data mining), interpreting and presenting the results needed to decision making. 
+
 
 # Business Analyst
 Janv 2019 - Aujourd'hui
