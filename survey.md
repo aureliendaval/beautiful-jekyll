@@ -8,6 +8,10 @@ Un ensemble de solutions est actionnable pour répondre à votre problématique.
 
 # Usages et Attitudes 
 
+Typologie
+
+
+
 # Segmentation
 
 # Satisfaction
