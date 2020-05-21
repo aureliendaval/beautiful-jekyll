@@ -8,6 +8,9 @@ Un ensemble de solutions est actionnable pour répondre à votre problématique.
 
 # Usages et Attitudes 
 
+Affiner sa connaissance sur ces clients. Les motivations d'achat/souscription. 
+Clefs d'optimisation de l'approche commerciale
+Identifier les segments de marché. 
 Typologie
 
 
@@ -25,15 +28,16 @@ Turf
 Nouveau concept
 Test pack
 
-# 
+Cette analyse a pour objectif de définir le prix de vente optimal de son produit ou service pour optimiser l’expérience produit. Elle prend en compte l’élasticité de la demande ainsi qu’une étude du prix psychologique et une analyse conjointe.
 
 
-# Prix 
+Etude usages et attitudes
+Etude de cas : usages et attitudes.
+Analyser en dynamique les comportements et postures de vos clients et prospects, pour faire émerger des logiques de parcours d’achat, segmenter votre marché en groupes typologiques et affiner vos réponses.
+Etude prospective marché
+Etude prospective marché.
+Comprendre les futurs besoins & attentes clients, pour vous aider à anticiper les évolutions du marché et mettre en place vos prochaines actions marketing.
+Etude de notoriété et d’image de marque.
+Etude de notoriété et d’image de marque.
+Mettre à jour les valeurs et attributs d’image de votre/vos marque(s) et ses forces et faiblesses sur votre marché.
 
-Etudes qualitativesEtudes quantitativesQuali / quanti (mixte)ConsultingCréativitéAnalyse d'expertOmnibusPanelsMarchés et Cibles (Usages et Attitudes,…Offre / Innovation (concept, produit, prix,…)Marque (et positionnement)Publicité, communicationMedia (et hors media)Distribution, shopperSatisfaction Fidélité, relation,…ErgonomieQualité (visites mystères,…)Tendances & opinion
-
-U & A LIGHT
-Cette méthode légère est particulièrement adaptée lorsque vous souhaitez explorer un nouveau pays / marché et obtenir :
-- une première vue d’ensemble du marché (pénétration / fréquence d'utilisation),
-- une description précise des comportements,
-- une compréhension de la structuration du marché (quels produits se ressemblent ?)
