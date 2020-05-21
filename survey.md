@@ -4,12 +4,8 @@ title: Etude de Marché
 subtitle: Solutions actionnables
 ---
 
+Un ensemble de solutions est actionnable pour répondre au mieux à votre problématique. Après un écange sur va permettre  mettre en œuvre la meilleure méthodologie pour parvenir à répondre à cette problématique.pour vous fournir l'information pertinent et vous permettre de prendre la décision optimale.  
 
-
- Je vous propose un échange téléphonique à ce sujet pour comprendre vos attentes et voir si vous préférez passer par un freelance ou un institut. Cet appel permettrait également de définir au mieux l'objectif de l'étude, qui est la partie la plus importante dans une étude de marché. C'est ce qui permet d'avoir une problématique claire et de mettre en œuvre la meilleure méthodologie pour parvenir à répondre à cette problématique.
-
-
-pour vous fournir l'information pertinent et vous permettre de prendre la décision optimale.  
 
 
 # Usages et Attitudes 
