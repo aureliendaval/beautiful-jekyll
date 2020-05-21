@@ -5,6 +5,9 @@ subtitle: Connaissances et Compétentes
 ---
 
 Expert en traitement de l'information, interprétation et présentation des résultats pour vous accompagner dans vos prises de décision. 
+l'ambition de faire croître leur business.
+
+
 
 # <i class="fas fa-tachometer-alt"></i> Business Analyst
 Janv 2019 - Aujourd'hui
