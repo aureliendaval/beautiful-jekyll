@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Etude de Marché
-subtitle: C'est mon monde
+subtitle: rf
 ---
 
 Nos équipes et nos solutions spécialisées vous fournissent l'information précise et pertinente qui vous permettra de prendre la meilleure décision, plus rapidement et sur tous vos marchés.
@@ -12,7 +12,22 @@ Optimiser votre offre
 03
 Piloter l’expérience client
 
-## Prix 
+# Usages et Attitudes 
+
+# Segmentation
+
+# Satisfaction
+
+Abandoniste
+
+# L'offre
+
+Turf
+
+# 
+
+
+# Prix 
 
 Etudes qualitativesEtudes quantitativesQuali / quanti (mixte)ConsultingCréativitéAnalyse d'expertOmnibusPanelsMarchés et Cibles (Usages et Attitudes,…Offre / Innovation (concept, produit, prix,…)Marque (et positionnement)Publicité, communicationMedia (et hors media)Distribution, shopperSatisfaction Fidélité, relation,…ErgonomieQualité (visites mystères,…)Tendances & opinion
 
