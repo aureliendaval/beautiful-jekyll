@@ -16,8 +16,9 @@ Avril 2016 à Déc 2018 _(2 ans et 7 mois)_
 * Création et management des campagnes d'invitations avec MailChimp? 
 * Vérification de 
 * Fusion 
-*
-***
+* Analyse des données avec Askia et R
+* Réalisation de graphiques 
+* Ecriture de recommandation. 
 
 
 • Designing a questionnaire.
