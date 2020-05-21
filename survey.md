@@ -4,9 +4,7 @@ title: Etude de Marché
 subtitle: Solutions actionnables
 ---
 
-Un ensemble de solutions est actionnable pour répondre au mieux à votre problématique. Après un écange sur va permettre  mettre en œuvre la meilleure méthodologie pour parvenir à répondre à cette problématique.pour vous fournir l'information pertinent et vous permettre de prendre la décision optimale.  
-
-
+Un ensemble de solutions est actionnable pour répondre à votre problématique. Après avoir échangé pour comprendre au mieux vos attentes, il faudra mettre en place la meilleure méthodologie pour parvenir à répondre à cette problématique. Pour, au final, vous fournir l'information pertinente et vous permettre de prendre la décision la plus optimale. 
 
 # Usages et Attitudes 
 
