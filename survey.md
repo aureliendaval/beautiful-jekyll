@@ -1,16 +1,11 @@
 ---
 layout: page
 title: Etude de Marché
-subtitle: rf
+subtitle: Solutions
 ---
 
-Nos équipes et nos solutions spécialisées vous fournissent l'information précise et pertinente qui vous permettra de prendre la meilleure décision, plus rapidement et sur tous vos marchés.
+Pour vous fournir l'information précise et pertinente pour vous permettre de prendre la meilleure décision. 
 
-Comprendre votre marché
-02
-Optimiser votre offre
-03
-Piloter l’expérience client
 
 # Usages et Attitudes 
 
