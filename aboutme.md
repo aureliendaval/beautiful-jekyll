@@ -1,8 +1,15 @@
 ---
 layout: page
-title: A propos
-subtitle: Entrez dans mon monde
+title: Mon parcours 
+subtitle: Connaissance et Compétentes
 ---
+
+# Business Analyst
+Janv 2019 - Aujourd'hui
+
+
+# Chargé d'études quantitatives
+Avril 2016 à Déc 2018 (2 ans et 7 mois)
 
 My name is Inigo Montoya. I have the following qualities:
 
