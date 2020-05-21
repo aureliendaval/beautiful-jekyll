@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Etude de Marché
-subtitle: Solutions
+subtitle: Solutions actionnables
 ---
 
 Pour vous fournir l'information précise et pertinente pour vous permettre de prendre la meilleure décision. 
