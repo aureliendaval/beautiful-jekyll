@@ -9,17 +9,25 @@ Janv 2019 - Aujourd'hui
 
 
 # Chargé d'études quantitatives
-Avril 2016 à Déc 2018 (2 ans et 7 mois)
+Avril 2016 à Déc 2018 _(2 ans et 7 mois)_
 
-My name is Inigo Montoya. I have the following qualities:
+* Conception de questionnaire. 
+* Programmation et publication du questionnaire en ligne avec Askia. 
+* Création et management des campagnes d'invitations avec MailChimp? 
+* Vérification de 
+* Fusion 
+*
+***
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+• Designing a questionnaire.
+• Programming and hosting the questionnaire on the web with Askia.
+• Creating and managing an emailing campaign with MailChimp
+• Checking data collection.
+• Merging information from a customer file and respondent answers.
+• Analysing data with Askia and R.
+• Charting and making infographics.
+• Writing recommendations.
+• Creating and managing Databases with Access.
 
-<i class="fa fa-file"></i>
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My experience at Sky consulting has allowed me to be responsible for hands-on project execution for automotive, pharmaceutical, FMCG and cosmetics industries.
