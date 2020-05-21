@@ -22,6 +22,7 @@ Abandoniste
 
 # L'offre
 
+trade off
 Turf
 Nouveau concept
 Test pack
