@@ -12,8 +12,8 @@ author: Aurélien Daval
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  A propos: "aboutme"
-  Activités:
+  Mon parcours: "aboutme"
+  Services:
     - Etude de Marché: "survey" 
     - Business Analyst: "ba" 
   Blog: "aureliendaval.github.io"
