@@ -17,6 +17,7 @@ navbar-links:
     - Etude de Marché: "survey" 
     - Business Analyst: "ba" 
   Mon parcours: "aboutme"
+  Contact: "contact"
 
 # --- Local development options ---
 
