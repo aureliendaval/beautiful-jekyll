@@ -4,18 +4,15 @@ title: Mon parcours
 subtitle: Connaissances et Compétentes
 ---
 
-Expert en traitement de l'information, interprétation et présentation des résultats pour vous accompagner dans vos prises de décision. 
-l'ambition de faire croître leur business.
-
+Expert en traitement de l'information, en interprétation et présentation de ces résultats pour vous accompagner dans vos prises de décision stratégique. Mon expérience dans des instituts d'étude de marché et au sein de Thalys 
 
 
 # <i class="fas fa-tachometer-alt"></i> Business Analyst
 Janv 2019 - Aujourd'hui
 
 
-
 # <i class="far fa-chart-bar"></i> Chargé d'études quantitatives
-Avril 2016 à Déc 2018 _(2 ans et 7 mois)_
+_Avril 2016 à Déc 2018 (2 ans et 7 mois)_
 
 
 
