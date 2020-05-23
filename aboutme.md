@@ -10,6 +10,7 @@ Expert en traitement de l'information, en interprétation et présentation de ce
 # <i class="fas fa-tachometer-alt"></i> Business Analyst
 Janv 2019 - Aujourd'hui
 
+<font size="1">This is some text size 1!</font>
 
 # <i class="far fa-chart-bar"></i> Chargé d'études quantitatives
 _Avril 2016 à Déc 2018 (2 ans et 7 mois)_
