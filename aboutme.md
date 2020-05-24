@@ -4,7 +4,7 @@ title: Mon parcours
 subtitle: Connaissances et Compétentes
 ---
 
-Je suis un expert en **traitement de l'information**, en **interprétation** de ces résultats et en **visualisation des données traitées** pour **vous accompagner dans vos prises de décisions stratégiques**. Mon expérience dans des instituts d'étude de marché (Sky consulting et Audirep) et au sein d'une grande entreprise ferroviaire (Thalys) m'a permis de  . 
+Je suis un expert en **traitement de l'information**, en **interprétation** de ces résultats et en **visualisation des données traitées** pour **vous accompagner dans vos prises de décisions stratégiques**. Mon expérience dans des instituts d'étude de marché (Sky consulting et Audirep) a été l'opportunité de découvrir . Associée à monexpérience dans une grande entreprise ferroviaire (Thalys) a été l'opportunité de travailler sur des  . 
 
 # <i class="fas fa-tachometer-alt"></i> Business Analyst
 _<font size="3"> Janv 2019 - Aujourd'hui (1 an et 6 mois) - Thalys </font>_
