@@ -8,17 +8,16 @@ Un ensemble de solutions est actionnable pour **répondre à votre problématiqu
 
 * **L’expérience client** 
 
-  * **Satisfaction Client**. 
+	* **Satisfaction Client**. 
 
 Cette étude permet d'identifier ce qui a **le plus d'impact sur la satisfaction** de vos clients, **les domaines où les attentes sont honorées** et **les irritants qui viennent dégrader l'expérience client**. Ce qui permet de déterminer **les aspects où il faut capitaliser** (à forte valeur ajoutée sur la satisfaction et où l'entreprise excelle) et les **aspects à améliorer en priorité** (les aspects qui impactent la satisfaction et où la marque ne répond pas aux attentes).
 
- * **Usages et Attitudes (U&A)**.
+	* **Usages et Attitudes (U&A)**.
 	 
 Cette étude permet **d'affiner votre connaissance sur vos clients** : motivations d’achat, de souscription, les raisons de consommation, les modalités de consommation. C’est ce qui permet de saisir les opportunités et les risques de développement pour comprendre l’évolution de la catégorie sur laquelle vous êtes.
 
-o	Segmentation et typologie
+	* **Segmentation et typologie**
 La segmentation permet de regrouper vos clients pour mettre en place des actions marketings différenciées plus percutantes. 
 
-
-•	La définition de l’offre
+* **La définition de l’offre**
 
