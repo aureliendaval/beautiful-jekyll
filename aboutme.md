@@ -30,3 +30,8 @@ Cette expérience a été l'opporutnité pour moi de mener des enquêtes en auto
 * Analyse des données avec Askia et R
 * Création de graphiques et d’infographies 
 * Rédaction des recommandations.
+
+# <i class="fas fa-user-graduate"></i> Diplomé - Master en économie/gestion
+_<font size="3"> Spécialité Chargé d'études économiques </font>_
+
+
