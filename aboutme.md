@@ -19,7 +19,7 @@ Je travaille au sein du sevice Premium (qui s'occupe de l'ensemble de la chaine 
 # <i class="far fa-chart-bar"></i> Chargé d'études quantitatives
 _<font size="3"> Avril 2016 à Déc 2018 (2 ans et 7 mois) - Sky Consulting et Audirep </font>_
 
-Cette expérience m'a permis de mener des enquêtes en autonomie pour des clients de plusieurs secteurs et délivrer des actions. En détail :
+Cette expérience a été l'opporutnité pour moi de mener des enquêtes en autonomie pour des clients de différents secteurs (Banque, Assurance, Grande consommation, Services, Industrie, Santé) et de délivrer des Insights actionnables. En détail :
 
 * Elaboration du questionnaire. 
 * Programmation et hébergement du questionnaire sur le web avec Askia. Test du lien.  
