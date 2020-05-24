@@ -9,12 +9,13 @@ Je suis un expert en **traitement de l'information**, en **interprétation** de 
 # <i class="fas fa-tachometer-alt"></i> Business Analyst
 _<font size="3"> Janv 2019 - Aujourd'hui (1 an et 6 mois) - Thalys </font>_
 
-Je travaille au sein du sevice Premium (qui s'occupe de l'ensemble de la chaine logistique: de la préparation des plateaux repas chez les traiteurs au chargement de ces plateaux à bord et à la gestion). 
+Cet expérience au sein du service Premium (qui est en charge de la gestion de l'ensemble de la chaine logistique: de la préparation des plateaux repas chez les traiteurs au chargement de ces plateaux à bord, à la gestion des déchets) la. En détail : 
 
-* Management du système de passage 
-*
-*
-*
+* Analyses Ad’hoc : mesurer le gaspillage à bord et mettre en place des solutions pour le réduire, calculer l’impact financier de passer de deux à une voiture Premium (Coûts-Bénéfices). 
+* Suivre les KPI au jour le jour : Taux de service des passagers, taux de service corrigé, bar fermé, TA absent. Consolider les données mois par mois. Digitalisation du point 5 minutes.
+* Mangement du système de prévision : suivre les rapports de performance, amélioration continue avec l’ajout de variables.
+* SLA : Mise en place de calculs automatiques pour trouver des irrégularités et augmenter le volume des amendes. 
+* Centraliser les données journalières envoyées par e-mail en une base de données grâce à VBA. 
 
 # <i class="far fa-chart-bar"></i> Chargé d'études quantitatives
 _<font size="3"> Avril 2016 à Déc 2018 (2 ans et 7 mois) - Sky Consulting et Audirep </font>_
