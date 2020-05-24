@@ -23,7 +23,8 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 100;
+  font-weight: 400;
+  font-size: 18px;
 }
 a {
   color: {{ site.link-col | default: "#008AFF" }};
