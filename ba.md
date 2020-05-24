@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Business Analyst
-subtitle: Analyse des porcessus
+subtitle: Analyse des processus d'information
 ---
 
 [Work in Progress]
