@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mon parcours 
-subtitle: Connaissances et Compétentes
+subtitle: Mes Connaissances et Compétentes
 ---
 
 Je suis un expert en **traitement, interprétation et visualisation de l'information** pour **vous accompagner dans vos prises de décisions stratégiques**. Mon expérience dans au sein d'instituts d'étude de marché (Sky consulting et Audirep) a été l'opportunité de découvrir **plusieurs secteurs et méthodologies d'analyse**. Mon expérience dans une grande entreprise (Thalys) m'a permis de mettre en place les Insigts issus des analyses passagers dans un **processus d'amélioration continue**.
@@ -9,7 +9,7 @@ Je suis un expert en **traitement, interprétation et visualisation de l'informa
 # <i class="fas fa-tachometer-alt"></i> Business Analyst
 _<font size="3"> Janv 2019 - Aujourd'hui (1 an et 6 mois) - Thalys </font>_
 
-Cet expérience au sein du service Premium (qui est en charge de la gestion de l'ensemble de la chaine logistique: de la préparation des plateaux repas chez les traiteurs au chargement de ces plateaux à bord, à la gestion des déchets) la. En détail : 
+Cette expérience au Service A Bord - en charge de la supervision/amélioration de la chaine logistique pour la classe Premium - a été l'opportunité de mettre en place les outils d'analyse pour . En détail : 
 
 * Analyses Ad’hoc : mesurer le gaspillage à bord et mettre en place des solutions pour le réduire, calculer l’impact financier de passer de deux à une voiture Premium (Coûts-Bénéfices). 
 * Suivre les KPI au jour le jour : Taux de service des passagers, taux de service corrigé, bar fermé, TA absent. Consolider les données mois par mois. Digitalisation du point 5 minutes.
