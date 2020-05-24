@@ -4,7 +4,7 @@ title: Mon parcours
 subtitle: Connaissances et Compétentes
 ---
 
-Je suis un expert en **traitement de l'information**, en **interprétation** de ces résultats et en **visualisation des données traitées** pour **vous accompagner dans vos prises de décisions stratégiques**. Mon expérience dans des instituts d'étude de marché (Sky consulting et Audirep) a été l'opportunité de découvrir . Associée à monexpérience dans une grande entreprise ferroviaire (Thalys) a été l'opportunité de travailler sur des  . 
+Je suis un expert en **traitement de l'information**, en **interprétation** de ces résultats et en **visualisation des données traitées** pour **vous accompagner dans vos prises de décisions stratégiques**. Mon expérience dans des instituts d'étude de marché (Sky consulting et Audirep) a été l'opportunité de découvrir pluisuers marchés. Cette expérience associée à celle dans une grande entreprise ferroviaire (Thalys) a été l'opportunité d'aller plus loins de de voir l'impact sur le terrain des recommendations.
 
 # <i class="fas fa-tachometer-alt"></i> Business Analyst
 _<font size="3"> Janv 2019 - Aujourd'hui (1 an et 6 mois) - Thalys </font>_
@@ -17,13 +17,15 @@ Je travaille au sein du sevice Premium (qui s'occupe de l'ensemble de la chaine 
 *
 
 # <i class="far fa-chart-bar"></i> Chargé d'études quantitatives
-_Avril 2016 à Déc 2018 (2 ans et 7 mois) - Sky Consulting et Audirep_
+_<font size="3"> Avril 2016 à Déc 2018 (2 ans et 7 mois) - Sky Consulting et Audirep </font>_
 
-* Conception du questionnaire. 
-* Programmation et publication du questionnaire en ligne avec Askia. 
-* Création et management des campagnes d'invitations par e-mail avec MailChimp.  
-* Vérification de l'avancée du terrain et des réponses. 
-* Fusion des informations fichier client et répondant. 
+Cette expérience m'a permis de mener des enquêtes en autonomie pour des clients de plusieurs secteurs et délivrer des actions. En détail :
+
+* Elaboration du questionnaire. 
+* Programmation et hébergement du questionnaire sur le web avec Askia. Test du lien.  
+* Création et gestion des campagnes d'invitations par e-mail avec MailChimp.  
+* Suivi du terrain. Vérification de la collecte des données. 
+* Fusion des renseignements d’un fichier client avec les réponses des participants.
 * Analyse des données avec Askia et R
-* Réalisation de graphiques 
-* Ecriture de recommandation. 
+* Création de graphiques et d’infographies 
+* Rédaction des recommandations.
