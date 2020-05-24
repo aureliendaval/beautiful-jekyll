@@ -17,6 +17,7 @@ Cette étude permet d'identifier ce qui a **le plus d'impact sur la satisfaction
 Cette étude permet **d'affiner votre connaissance sur vos clients** : motivations d’achat, de souscription, les raisons de consommation, les modalités de consommation. C’est ce qui permet de saisir les opportunités et les risques de développement pour comprendre l’évolution de la catégorie sur laquelle vous êtes.
 
 * **Segmentation et typologie**
+
 La segmentation permet de regrouper vos clients pour mettre en place des actions marketings différenciées plus percutantes. 
 
 <h1>L'offre</h1>
