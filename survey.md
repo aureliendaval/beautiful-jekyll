@@ -8,6 +8,8 @@ Un ensemble de solutions est actionnable pour **répondre à votre problématiqu
 
 <h1>L’expérience client</h1>
 
+</br>
+
 * **Satisfaction Client**. 
 
 Cette étude permet d'identifier ce qui a **le plus d'impact sur la satisfaction** de vos clients, **les domaines où les attentes sont honorées** et **les irritants qui viennent dégrader l'expérience client**. Ce qui permet de déterminer **les aspects où il faut capitaliser** (à forte valeur ajoutée sur la satisfaction et où l'entreprise excelle) et les **aspects à améliorer en priorité** (les aspects qui impactent la satisfaction et où la marque ne répond pas aux attentes).
@@ -21,4 +23,14 @@ Cette étude permet **d'affiner votre connaissance sur vos clients** : motivatio
 La segmentation permet de regrouper vos clients pour mettre en place des actions marketings différenciées plus percutantes. 
 
 <h1>L'offre</h1>
+
+* **Optimisation de l'offre**
+
+
+* **Test de concept**
+
+
+* **Test de packaging**
+
+
 
