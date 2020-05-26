@@ -8,7 +8,7 @@ Un ensemble de solutions est actionnable pour **répondre à votre problématiqu
 
 <h1>L’expérience client</h1>
 
-</br>
+<br/>
 
 * **Satisfaction Client**. 
 
@@ -20,12 +20,28 @@ Cette étude permet **d'affiner votre connaissance sur vos clients** : motivatio
 
 * **Segmentation et typologie**
 
-La segmentation permet de regrouper vos clients pour mettre en place des actions marketings différenciées plus percutantes. 
+La segmentation permet de **regrouper vos clients** par en plusieurs catégories pour **mettre en place des actions marketings différenciées plus percutantes**. 
 
 <h1>L'offre</h1>
 
-* **Optimisation de l'offre**
+* **Optimisation de la gamme produits/services
 
+Cette étude permet de 
+
+
+Vous avez une ligne de produits à mettre en valeur et vous voulez toucher un maximum de clients, c’est possible avec l’analyse TURF.
+Composer (ou re-composer) une gamme de produits / services
+Identifier les propositions à sélectionner pour que la gamme soit le plus attractive possible
+
+Mieux répondre aux besoins/attentes des clients
+Renforcer la part de marché
+Limiter la cannibalisation.
+
+pourra constituer une ligne de produits pour laquelle on pourra espérer obtenir le plus de parts de marché possible (qui touchera le plus de consommateurs possible, d'où le terme « reach »).
+
+recherche la combinaison de 6 parfums pour lesquels il y a au moins une fois une note au-delà de 8 chez les consommateurs. Il obtiendra donc un groupe de parfums qui plairont au plus grand nombre.
+
+* **Optimisation de l'offre**
 
 * **Test de concept**
 
