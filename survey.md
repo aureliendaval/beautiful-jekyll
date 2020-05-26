@@ -26,9 +26,9 @@ La segmentation permet de **regrouper vos clients** par en plusieurs catégories
 
 <br/>
 
-* **Optimisation de la gamme produits/services
+* **Optimisation de la gamme produits/services**
 
-Cette étude permet de construire la combinaison de produits/services (via l'analyse TURF) pour constituter la gamme la plus attractive et qui va toucher le plus grand nombre. C'est ce qui permet de mieux répondre aux besoins des clients et renforcer vos parts de marché. 
+Cette étude permet de construire la combinaison de produits/services (via l'analyse TURF) pour **constituter la gamme la plus attractive et qui va toucher le plus grand nombre**. C'est ce qui permet de **mieux répondre aux besoins des clients** et renforcer vos parts de marché. 
 
 * **Optimisation de l'offre**
 
