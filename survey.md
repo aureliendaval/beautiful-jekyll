@@ -20,7 +20,7 @@ Cette étude permet **d'affiner votre connaissance sur vos clients** : motivatio
 
 * **Segmentation et typologie**
 
-La segmentation permet de **regrouper vos clients** par en plusieurs catégories pour **mettre en place des actions marketings différenciées plus percutantes**. 
+La segmentation permet de **regrouper vos clients** en plusieurs catégories pour **mettre en place des actions marketings différenciées plus percutantes**. 
 
 <h1>L'offre</h1>
 
@@ -31,6 +31,8 @@ La segmentation permet de **regrouper vos clients** par en plusieurs catégories
 Cette étude permet de construire la combinaison de produits/services (via l'analyse TURF) pour **constituter la gamme la plus attractive et qui va toucher le plus grand nombre**. C'est ce qui permet de **mieux répondre aux besoins des clients** et renforcer vos parts de marché. 
 
 * **Optimisation de l'offre**
+
+
 
 * **Test de concept**
 
