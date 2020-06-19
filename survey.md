@@ -33,8 +33,12 @@ Cette étude permet de construire la combinaison de produits/services (via l'ana
 * **Optimisation de l'offre**
 
 
+L’analyse conjointe est une technique d’analyse statistique permettant de recueillir les préférences des consommateurs sur les attributs d’un produit ou d’un service.
+
+
 
 * **Test de concept**
+
 
 * **Test de packaging**
 
