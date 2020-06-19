@@ -34,6 +34,8 @@ Cette étude permet de construire la combinaison de produits/services (via l'ana
 
 
 L’analyse conjointe est une technique d’analyse statistique permettant de recueillir les préférences des consommateurs sur les attributs d’un produit ou d’un service.
+Comprendre comment le consommateur arbitre entre ses choix pour définir l’offre de services optimale
+Arbitrages entre plusieurs offres potentielles, mais aussi  entre chaque paramètre de l’offre (dont, souvent,  la marque et le prix), ainsi que les logiques de compensations entre ces critères.
 
 
 
@@ -42,5 +44,7 @@ L’analyse conjointe est une technique d’analyse statistique permettant de re
 
 * **Test de packaging**
 
+
+* **Notoriété**
 
 
