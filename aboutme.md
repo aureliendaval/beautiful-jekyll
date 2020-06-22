@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Expérience professionnelle et compétences 
-subtitle: Mon parcours
+title: Mon parcours 
+subtitle: Expérience professionnelle et compétences 
 ---
 
 Je suis un expert en **traitement, interprétation et visualisation de l'information** pour **vous accompagner dans vos prises de décisions stratégiques**. Mon expérience au sein d'instituts d'étude de marché (Sky consulting, Audirep) a été l'opportunité de découvrir **plusieurs secteurs et méthodologies d'analyse**. Mon expérience dans une grande entreprise (Thalys) m'a permis de mettre en place les Insigts issus des analyses passagers dans un **processus d'amélioration continue**.
