@@ -11,7 +11,7 @@ Je suis un expert en **traitement, interprétation et visualisation de l'informa
 # <i class="fas fa-tachometer-alt"></i> Business Analyst
 _<font size="3"> Janv 2019 - Aujourd'hui (1 an et 6 mois) - Thalys </font>_
 
-Cette expérience au Service A Bord - en charge de la supervision de la chaine logistique pour la classe Premium - a été l'opportunité de décortiquer les différentes bases de données afin d'**évaluer la performance du service et les opportunités d'amélioration de la rentabilité**. En détail : 
+Cette expérience au Service A Bord - en charge de la supervision de la chaine logistique pour la classe Premium - a été l'opportunité de décortiquer les différentes bases de données afin d'**évaluer la performance du service et les opportunités d'amélioration de la rentabilité**. En détail: 
 
 * Contribution aux réflexions d'évolution de la chaine logistique et aux négociations avec les prestataires. 
 * Construire et suivre les KPI au jour le jour : Taux de service des passagers, taux de service corrigé, bar fermé, TA absent, plateaux jetés. Consolider les données mois par mois. Mettre en place des actions correctives. 
@@ -25,7 +25,7 @@ Cette expérience au Service A Bord - en charge de la supervision de la chaine l
 # <i class="far fa-chart-bar"></i> Chargé d'études quantitatives
 _<font size="3"> Avril 2016 à Déc 2018 (2 ans et 7 mois) - Sky Consulting et Audirep </font>_
 
-Cette expérience a été l'opportunité pour moi de **mener des enquêtes en autonomie** pour des clients de différents secteurs (Banque, Assurance, Grande consommation, Services, Industrie, Santé) et de **délivrer des Insights actionnables rapidement**. En détail :
+Cette expérience a été l'opportunité pour moi de **mener des enquêtes en autonomie** pour des clients de différents secteurs (Banque, Assurance, Grande consommation, Services, Industrie, Santé) et de **délivrer des Insights actionnables rapidement**. En détail:
 
 * Elaboration du questionnaire. 
 * Programmation et hébergement du questionnaire sur le web avec Askia. Test du lien.  
