@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mon parcours 
-subtitle: Expérience professionnelle et compétences
+title: Expérience professionnelle et compétences 
+subtitle: Mon parcours
 ---
 
 Je suis un expert en **traitement, interprétation et visualisation de l'information** pour **vous accompagner dans vos prises de décisions stratégiques**. Mon expérience au sein d'instituts d'étude de marché (Sky consulting, Audirep) a été l'opportunité de découvrir **plusieurs secteurs et méthodologies d'analyse**. Mon expérience dans une grande entreprise (Thalys) m'a permis de mettre en place les Insigts issus des analyses passagers dans un **processus d'amélioration continue**.
@@ -38,10 +38,10 @@ Cette expérience a été l'opportunité pour moi de **mener des enquêtes en au
 
 <br/>
 
-# <i class="fas fa-cubes"></i></i> Compétences 
+# <i class="fas fa-cubes"></i> Compétences 
 
-* Office 365 (Powerpoint/Excel) : Compétence professionnelle avancée. 
-* R : Compétence professionnelle générale. 
+* Office 365 (**Powerpoint/Excel**) : Compétence professionnelle avancée. 
+* **R** : Compétence professionnelle générale. 
 * VBA : Compétence professionnelle limitée. 
 * HTML/CSS : Compétence élémentaire. 
 * Langues :
