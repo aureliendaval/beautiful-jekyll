@@ -20,7 +20,7 @@ Cette expérience au Service A Bord - en charge de la supervision de la chaine l
 * SLA : Mise en place de calculs automatiques pour trouver des irrégularités et augmenter le volume des amendes. 
 * Centraliser les données journalières envoyées par e-mail en une base de données grâce à VBA. 
 
-**Formation "Leadership et gestion d’équipes"** via https://www.game-learn.com/ en décembre 2019 (Pacific Game). 
+**Formation "Leadership et gestion d’équipes"** via *www.game-learn.com* en décembre 2019 (Pacific Game). 
 
 <br/>
 
