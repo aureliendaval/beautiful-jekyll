@@ -39,6 +39,7 @@ Cette expérience a été l'opportunité pour moi de **mener des enquêtes en au
 <br/>
 
 # <i class="fas fa-cubes"></i> Compétences 
+_<font size="3"> </font>_
 
 * Office 365 (**Powerpoint/Excel**) : Compétence professionnelle avancée. 
 * **R** : Compétence professionnelle générale. 
