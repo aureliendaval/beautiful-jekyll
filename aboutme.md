@@ -57,4 +57,4 @@ _<font size="3"> </font>_
 _<font size="3"> Spécialité Chargé d'études économiques - Diplômé en 2015 - Univesité de Franche-Comté </font>_
 
 * Mémoire en Théorie des Jeux : science d'analyse qui permet d'étudier l'environnement concurrentiel et les leviers d’action afin de déterminer la stratégie optimale.
-* Classe préparatoire ENS Cachan D2 - Lycée Pergaud - Besançon - 2 ans. 
+* **Classe préparatoire ENS Cachan D2** - Lycée Pergaud - Besançon - 2 ans. 
