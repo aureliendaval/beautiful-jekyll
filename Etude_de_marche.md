@@ -12,7 +12,7 @@ Un ensemble de solutions est actionnable pour **répondre à votre problématiqu
 
 * **Satisfaction Client**. 
 
-Cette étude permet d'identifier ce qui a **le plus d'impact sur la satisfaction** de vos clients, **les domaines où les attentes sont honorées** et **les irritants qui viennent dégrader l'expérience client**. Ce qui permet de déterminer **les aspects où il faut capitaliser** (à forte valeur ajoutée sur la satisfaction et où l'entreprise excelle) et les **aspects à améliorer en priorité** (les aspects qui impactent la satisfaction et où la marque ne répond pas aux attentes).
+Cette étude permet d'identifier ce qui a **le plus d'impact sur la satisfaction** de vos clients, **les domaines où les attentes sont honorées** et **les irritants qui viennent dégrader l'expérience client**. Ce qui permet de déterminer **les aspects où il faut capitaliser** (à forte valeur ajoutée sur la satisfaction et où l'entreprise excelle) et les **aspects à améliorer en priorité** (les aspects qui impactent fortement la satisfaction et où la marque ne répond pas aux attentes).
 	
 * **Usages et Attitudes (U&A)**.
 	 
@@ -32,19 +32,12 @@ Cette étude permet de construire la combinaison de produits/services (via l'ana
 
 * **Optimisation de l'offre**
 
-
-L’analyse conjointe est une technique d’analyse statistique permettant de recueillir les préférences des consommateurs sur les attributs d’un produit ou d’un service.
-Comprendre comment le consommateur arbitre entre ses choix pour définir l’offre de services optimale
-Arbitrages entre plusieurs offres potentielles, mais aussi  entre chaque paramètre de l’offre (dont, souvent,  la marque et le prix), ainsi que les logiques de compensations entre ces critères.
-
-
+Cette étude (l'analyse conjointe) permet de **comprendre comment le consommateur arbitre entre les attributs d'un produit ou d'un service** (la marque, le prix, ...) et d'en déduire les préférences du consommateur. A vous ensuite   
 
 * **Test de concept**
 
+C'est une étude qui permet de **voir l'attractivité d'un nouveau produit ou d’un nouveau service** (est-ce que ce dernier répond ou non à un besoin et si le succès sera - ou non - au rendez-vous) et d'identifier . C'est ce qui va vous permettre de prioriser et d'améliorer vos développements. 
 
 * **Test de packaging**
 
-
 * **Notoriété**
-
-
