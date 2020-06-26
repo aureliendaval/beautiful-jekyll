@@ -11,9 +11,13 @@ L’offre de services proposée va vous permettre de :
 
 L’objectif est de mettre en place les ajustements nécessaires pour rendre plus efficaces les prises de décisions quotidiennes de vos équipes. 
 
+<br/>
+
 __1.Tirer tout le potentiel de vos données.__ 
 
 Ce travail commence par la **cartographie de votre système d’information** et la **modélisation des processus de décision**. C'est ce qui permet de simplifier, d'adapter ou de créer des procédures (de production, de vente, de logistique, de gestion de la relation client, de circulation de l'information) dans le but d'**augmenter l'efficacité**, la productivité et la rentabilité des activités de votre organisation.  
+
+<br/>
 
 __2.Mettre en place de nouvelles solutions organisationnelles ou/et digitales.__ 
 
