@@ -44,7 +44,8 @@ Cette expérience a été l'opportunité pour moi de **mener des enquêtes en au
 _<font size="3"> </font>_
 
 * Office 365 (**Powerpoint/Excel**) : Compétence professionnelle avancée. 
-* **R** : Compétence professionnelle générale. 
+* **R** : Compétence professionnelle générale.
+* Power BI : Compétence professionnelle générale.  
 * VBA : Compétence professionnelle limitée. 
 * HTML/CSS : Compétence élémentaire. 
 * Langues :
