@@ -6,6 +6,8 @@ subtitle: Solutions actionnables
 
 Un ensemble de solutions est actionnable pour **répondre à votre problématique**. Après avoir échangé pour comprendre au mieux vos attentes, la **méthodologie la plus efficace** sera mise en place pour répondre à cette problématique. Pour, au final, vous fournir l'information pertinente qui vous permettra de **prendre une décision optimale**. 
 
+<br/>
+
 <h1>L’expérience client</h1>
 
 <br/>
@@ -21,6 +23,8 @@ Cette étude permet **d'affiner votre connaissance sur vos clients** : motivatio
 * **Segmentation et typologie**
 
 La segmentation permet de **regrouper vos clients** en plusieurs catégories pour **mettre en place des actions marketings différenciées plus percutantes**. 
+
+<br/>
 
 <h1>L'offre</h1>
 
