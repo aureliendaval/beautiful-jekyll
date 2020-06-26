@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Business Analyst
-subtitle: Mettre en place une structure d’amélioration continue
+subtitle: Actionner le levier de l'amélioration continue
 ---
 
 L’offre de services proposée va vous permettre de :
