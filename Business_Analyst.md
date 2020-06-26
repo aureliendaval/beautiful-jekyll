@@ -9,7 +9,7 @@ L’offre de services proposée va vous permettre de :
 * **Tirer tout le potentiel de vos données** disponibles au sein de tous vos départements opérationnels (Marketing, Finance, Logistique, Ressources Humaines, Veille de marché). 
 * Répondre aux attentes des équipes en mettant en place des **nouvelles solutions organisationnelles ou/et digitales**. 
 
-L’objectif est d’accompagner vos équipes dans les prises de décision quotidiennes.
+L’objectif est d’accompagner vos équipes dans les prises de décision quotidiennes et de leur fournir ce dont ils ont besoin pour le faire d'une manière optimale.
 
 1. __Tirer tout le potentiel de vos données.__ 
 
@@ -23,5 +23,5 @@ Tout en accompagnement les nouveaux fonctionnements et usages au sein des équip
  
 # Conclusion. 
 Cet accompagnement va vous permettre de déceler les sources de perte de temps, d’énergie et d’argent qui nuit à l’efficacité et la rentabilité de votre organisation. 
-
+*évaluer la performance du service et les opportunités d'amélioration de la rentabilité**
 
