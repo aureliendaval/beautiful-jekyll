@@ -11,11 +11,11 @@ L’offre de services proposée va vous permettre de :
 
 L’objectif est d’accompagner vos équipes dans les prises de décision quotidiennes.
 
-__1. Tirer tout le potentiel de vos données.__ 
+1. __Tirer tout le potentiel de vos données.__ 
 
 Après avoir **cartographié de votre système d’information** et analyser l’utilisation des données dans les processus de décision, des axes d'amélioration seront co-construites avec vos équipes pour exploiter aux mieux vos données, améliorer vos procédures ou en créer de nouvelles. L'objectif est de donner à vos équipes les moyens de prendre les bonnes décisions. 
 
-__2. Mettre en place de nouvelles solutions organisationnelles ou/et digitales.__ 
+2. __Mettre en place de nouvelles solutions organisationnelles ou/et digitales.__ 
 
 Mon rôle est de **faire l’interface et de traduire les exigences de vos départements opérationnelles en langage technique pour le département IT et les équipes de développement**, qu’elles soient internes ou externes. Si la solution est externe, je suis capable de faire un benchmarck du marché, de mesurer les gains opérationnels et financiers, et d’accompagner le déploiement de la solution. 
 
