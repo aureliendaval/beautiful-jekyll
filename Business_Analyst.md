@@ -9,11 +9,11 @@ L’offre de services proposée va vous permettre de :
 * **Tirer tout le potentiel de vos données** disponibles au sein de tous vos départements opérationnels (Marketing, Finance, Logistique, Ressources Humaines, Veille de marché). 
 * Répondre aux attentes des équipes en mettant en place des **nouvelles solutions organisationnelles ou/et digitales**. 
 
-L’objectif est d’accompagner vos équipes dans les prises de décision quotidiennes et de leur fournir ce dont ils ont besoin pour le faire d'une manière optimale.
+L’objectif est d'apporter les ajustements nécessaires pour rendre plus efficaces les prises de décision quotidiennes de vos équipes. 
 
 1. __Tirer tout le potentiel de vos données.__ 
 
-Après avoir **cartographié de votre système d’information** et analyser l’utilisation des données dans les processus de décision, des axes d'amélioration seront co-construites avec vos équipes pour exploiter aux mieux vos données, améliorer vos procédures ou en créer de nouvelles. L'objectif est de donner à vos équipes les moyens de prendre les bonnes décisions. 
+Après avoir **cartographié de votre système d’information** et modéliser l’utilisation des données dans les processus de décision, les axes d'amélioration seront proposés et les procédures seront ajustés ou créer avec vos équipes. 
 
 2. __Mettre en place de nouvelles solutions organisationnelles ou/et digitales.__ 
 
@@ -21,7 +21,5 @@ Mon rôle est de **faire l’interface et de traduire les exigences de vos dépa
 
 Tout en accompagnement les nouveaux fonctionnements et usages au sein des équipes (et les faire monter en compétences). 
  
-# Conclusion. 
-Cet accompagnement va vous permettre de déceler les sources de perte de temps, d’énergie et d’argent qui nuit à l’efficacité et la rentabilité de votre organisation. 
-*évaluer la performance du service et les opportunités d'amélioration de la rentabilité**
-
+## En résumé. 
+Cet accompagnement va vous permettre d'améliorer la performance de votre organisation et de saisir les opportunités d'amélioration de la rentabilité.  
