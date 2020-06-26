@@ -15,8 +15,8 @@ navbar-links:
   Blog: "aureliendaval.github.io"
   Services:
     - Etude de Marché: "survey" 
-    - Business Analyst: "ba" 
-  Mon parcours: "aboutme"
+    - Business Analyst: "Business_Analyst" 
+  Mon parcours: "A_Propos"
   Contact: "contact"
 
 # --- Local development options ---
