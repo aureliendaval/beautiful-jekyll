@@ -13,7 +13,7 @@ L’objectif est d’accompagner vos équipes dans les prises de décision quoti
 
 1. Tirer tout le potentiel de vos données. 
 
-Après avoir cartographié de votre système d’information et analyser l’utilisation des données dans les processus de décision,  
+Après avoir **cartographié de votre système d’information** et analyser l’utilisation des données dans les processus de décision,  
 
 
  les processus d’utilisation des données dans la prise de décision, cette première analyse permettra de fixer les pistes d’amélioration pour exploiter au mieux vos données et renforcer/créer des procédures optimales.
