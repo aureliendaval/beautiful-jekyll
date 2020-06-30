@@ -36,7 +36,7 @@ Cette étude permet de construire la combinaison de produits/services (via l'ana
 
 * **Optimisation de l'offre**
 
-Cette étude (l'analyse conjointe) permet de **comprendre comment le consommateur arbitre entre les attributs d'un produit ou d'un service** (la marque, le prix, ...) et d'en déduire les préférences du consommateur. A vous ensuite   
+Cette étude (l'analyse conjointe) permet de **comprendre comment le consommateur arbitre entre les attributs d'un produit ou d'un service** (la marque, le prix, ...) et d'en déduire les préférences du consommateur. Ce qui permet de comprendre les attributs de l’offre qui suscitent le plus d’intention d’achat et de voir ce que la modicfica
 
 * **Test de concept**
 
