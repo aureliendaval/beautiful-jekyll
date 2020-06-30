@@ -44,4 +44,21 @@ C'est une étude qui permet de **voir l'attractivité d'un nouveau produit ou d�
 
 * **Test de packaging**
 
-* **Notoriété**
+Le packaging est un élément fondamental de l’identité d’une marque. Depuis 40 ans, Ipsos s’attache à mettre en lumière l’impact du pack sur la demande consommateur.
+
+Ipsos intervient de la phase amont de design du pack - en mettant en relation consommateurs et designers - jusqu’au dernières étapes de validation et de mesure du potentiel de ventes. Pour des résultats plus fiables et plus actionnables, nous utilisons les sciences comportementales et neurosciences en combinant questionnement direct et mesures passives, mesures explicites et implicites.
+
+Outre les tests classiques en réel, nous reproduisons des environnements de vente ultraréalistes en 2D (linéaires virtuels), 3D/360 (point de vente) ou e-commerce (market place ou direct to consumer) grâce à notre technologie Simstore.
+
+Nous évaluons le rôle joué par les distinctive assets de votre marque ou de votre pack pour nourrir le travail de design et des sessions sprints permettent de fournir en quelques jours une évaluation quantitative robuste avec des insights qualitatifs précis. Enfin, l’intervention de nos équipes UX permet d’aller encore plus loin dans l’activation et de maximiser la performance commerciale du packaging développé.
+
+
+
+* **Image / Notoriété**
+
+
+Piloter votre stratégie d’action et de communication
+Développer la notoriété et le niveau de connaissance de votre marque
+Etudier l’image, les valeurs et la personnalité perçues de votre marque au regard de vos objectifs (image voulue), mesurer les écarts entre les représentations et la réalité
+Définir les leviers de communication pertinents pour réduire ces écarts et optimiser votre image Identifier vos cibles stratégiques et les codes de communication performants pour s’adresser à ces cibles : positionnement, éléments de langage, temporalité, canaux
+Mesurer l’impact de vos campagnes de communication sur l’image de votre marque à court, moyen et long terme
