@@ -36,29 +36,16 @@ Cette étude permet de construire la combinaison de produits/services (via l'ana
 
 * **Optimisation de l'offre**
 
-Cette étude (l'analyse conjointe) permet de **comprendre comment le consommateur arbitre entre les attributs d'un produit ou d'un service** (la marque, le prix, ...) et d'en déduire les préférences du consommateur. Ce qui permet de comprendre les attributs de l’offre qui suscitent le plus d’intention d’achat et de voir ce que la modicfica
+Cette étude (l'analyse conjointe) permet de **comprendre comment le consommateur arbitre entre les attributs d'un produit ou d'un service** (la marque, le prix, ...) et d'en déduire les préférences du consommateur. C'est qui permet de comprendre les attributs de l’offre qui suscitent le plus d’intention d’achat et de voir l'impact sur vos parts de marché lorsqu'on modifie le curseur d'un attribut ou d'un autre, pour **construire l'offre idéale**.
 
 * **Test de concept**
 
-C'est une étude qui permet de **voir l'attractivité d'un nouveau produit ou d’un nouveau service** (est-ce que ce dernier répond ou non à un besoin et si le succès sera - ou non - au rendez-vous) et d'identifier . C'est ce qui va vous permettre de prioriser et d'améliorer vos développements. 
+C'est une étude qui permet de **voir l'attractivité d'un nouveau produit ou d’un nouveau service** : est-ce que ce dernier répond ou non à un besoin ? Si oui, est-ce que  le succès sera au rendez-vous ? C'est ce qui va vous permettre de **prioriser et d'améliorer vos développements**. 
 
 * **Test de packaging**
 
-Le packaging est un élément fondamental de l’identité d’une marque. Depuis 40 ans, Ipsos s’attache à mettre en lumière l’impact du pack sur la demande consommateur.
-
-Ipsos intervient de la phase amont de design du pack - en mettant en relation consommateurs et designers - jusqu’au dernières étapes de validation et de mesure du potentiel de ventes. Pour des résultats plus fiables et plus actionnables, nous utilisons les sciences comportementales et neurosciences en combinant questionnement direct et mesures passives, mesures explicites et implicites.
-
-Outre les tests classiques en réel, nous reproduisons des environnements de vente ultraréalistes en 2D (linéaires virtuels), 3D/360 (point de vente) ou e-commerce (market place ou direct to consumer) grâce à notre technologie Simstore.
-
-Nous évaluons le rôle joué par les distinctive assets de votre marque ou de votre pack pour nourrir le travail de design et des sessions sprints permettent de fournir en quelques jours une évaluation quantitative robuste avec des insights qualitatifs précis. Enfin, l’intervention de nos équipes UX permet d’aller encore plus loin dans l’activation et de maximiser la performance commerciale du packaging développé.
-
-
+C'est étude qui permet de mesurer **l'impact du packaging sur la demande consommateur**. Le packaging est en effet un élément fondamental de **l’identité d’une marque**. 
 
 * **Image / Notoriété**
 
-
-Piloter votre stratégie d’action et de communication
-Développer la notoriété et le niveau de connaissance de votre marque
-Etudier l’image, les valeurs et la personnalité perçues de votre marque au regard de vos objectifs (image voulue), mesurer les écarts entre les représentations et la réalité
-Définir les leviers de communication pertinents pour réduire ces écarts et optimiser votre image Identifier vos cibles stratégiques et les codes de communication performants pour s’adresser à ces cibles : positionnement, éléments de langage, temporalité, canaux
-Mesurer l’impact de vos campagnes de communication sur l’image de votre marque à court, moyen et long terme
+Cette étude permet de mesurer la notoriété, les valeurs associées et de comparer ces résultats à vos objectifs (image voulue). C'est ce qui va vous permettre de **piloter votre stratégie d'action et de communication**.   
