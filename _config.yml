@@ -13,9 +13,9 @@ author: Aurélien Daval
 
 navbar-links:
   Blog: "aureliendaval.github.io"
-  Services:
-    - Etude de Marché: "Etude_de_marche" 
-    - Business Analyst: "Business_Analyst" 
+#  Services:
+#    - Etude de Marché: "Etude_de_marche" 
+#    - Business Analyst: "Business_Analyst" 
   Mon parcours: "A_Propos"
   Contact: "contact"
 
