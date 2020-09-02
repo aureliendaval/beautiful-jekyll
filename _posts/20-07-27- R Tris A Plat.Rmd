@@ -1,0 +1,425 @@
+---
+title: "[Etude de marché - Article 4]"
+author: "Aurélien Daval"
+output:
+  html_document:
+    toc: true
+---
+
+<br/>
+
+*Dans le précédent article, nous avons mis en ligne notre questionnaire. L'étape du suivi du terrain a été bypassé pour arriver directement à l'étape du traitement des données. C'est ce que nous allons faire ici dans une première étape avec la réalisation d'un tris à plat (TAP). *
+
+<br/>
+
+# 5. Traitement Statistique. 
+
+Le **traitement statistique commence par le tris à plat**. C'est **le calcul des pourcentages question par question**. Pour le faire, je vous propose de créer un nouveau script : "Traitement.R".  
+
+<br/>
+
+## 5.1. Le tris à plat (TAP)
+
+Pour réaliser le tris à plat, nous allons utiliser le package "expss" qui permet de **reproduire des tables de contingence dans le style de SPSS.** 
+
+Vous pouvez trouver [ici](https://github.com/aureliendaval/aureliendaval.github.io/tree/master/_data) la base de données ('DataBase.xlsx') utilisée pour cet exemple. C'est une base de données créée de toutes pièces (avec 1000 répondants) et qui s'inspire du questionnaire créé précédemment. On a ainsi : 
+
+```{r, message=FALSE, warning=FALSE, eval=F}
+
+# Packages nécessaires:
+library(readxl) # --> importer un fichier .xlsx. 
+library(expss) # --> TAP, TC. 
+
+
+# Téléchargement des données : 
+DataBase <- read_excel("C:/Users/path/DataBase.xlsx")
+
+```
+
+<br/>
+
+Avant de passer au traitement statistique de la première question, je vous propose de **revoir le nom de la variable (via la fonction apply_labels** du package expss) et de **renommer le nom des réponses (via la fonction val_lab)**. On a donc : 
+
+```{r, message=FALSE, warning=FALSE, eval=F}
+
+# Adaptation des noms des variables.  
+DataBase = apply_labels(DataBase,
+                      Q1 = "Q1 : Genre")
+
+
+# Adaptation du nom des réponses - Q1.  
+val_lab(DataBase$Q1) = num_lab("
+    1 Homme
+    2 Femme ")
+
+```
+
+<br/>
+
+### 5.1.1. Traitement d'une question fermée. 
+
+Quels sont les informations nécessaires pour avoir un bon **tris à plat pour une question fermée** ? Il faut : 
+
+* le **nombre total de répondant (=la base)**. 
+* le **nombre de répondant par réponses**. 
+* le **pourcentage associé à chaque réponse**. 
+
+Pour le premier tableau, nous allons compter seulement les effectifs. Et nous allons ensuite ajouter au fur et à mesure les autres éléments pour arriver à un tableau avec la totalité des éléments nécessaires. 
+
+La **construction d'un tableau s'organise autour d'un "pipe" où le premier élément est la base de donnée que l'on va traiter et où le dernier élément "tab_pivot()" permet de construire la table**. Tout ce qui est entre ces éléments va être pris en compte dans la construction de la table. **L'opérateur %>% permet de faire la transition entre tous les éléments du pipe.** Parmis les premiers éléments à mettre en place dans le pipe pour avoir une table des effetcifs : 
+
+* **tab_cells: c'est les variables que l'on souhaite analyser**. 
+* **tab_stat_cases: C'est ce qui permet de calculer les effectifs**. 
+
+On a donc : 
+
+```{r, message=FALSE, warning=FALSE, eval=F}
+
+DataBase %>% #
+  tab_cells(Q1) %>% # Question à traiter
+  tab_stat_cases() %>% # Effectif
+  tab_pivot()
+
+```
+
+<br/>
+
+Cette table permet de savoir que sur les 1 000 réponsants, il y a 498 hommes et 502 femmes. La deuxième étape est d'**ajouter les pourcentages** à gauche. Pour cela, il faut ajouter dans le pipe : 
+
+* **tab_stat_cpct: c'est ce qui permet de calculer les pourcentages** (en colonne). On ajoute également le total (100%) via l'option total_statistic="u_cpct"
+
+Par rapport à la table ci-dessus, on a ajouté plusieurs options aux différentes fonctions : 
+
+* tab_stat_cases: l'option total_row_position = "above" pour mettre le total des effectifs au dessus de la table. 
+* tab_pivot: stat_position = "inside_columns" agréger les effectifs et les pourcentages côte à côte. 
+
+ce qui donne: 
+
+```{r, message=FALSE, warning=FALSE, eval=F}
+
+DataBase %>%
+  tab_cells(Q1) %>% # Question à traiter
+  tab_stat_cases(total_row_position = "above") %>% # Effectif
+  tab_stat_cpct(total_statistic="u_cpct", total_row_position = "above") %>% # Pourcentage 
+  tab_pivot(stat_position = "inside_columns") # Création de la table. 
+
+```
+
+<br/>
+
+Ainsi, ce tableau nous permet de voir qu'il y a 49.8% d'homme et 50,2% de femme. 
+
+<br/>
+
+### 5.1.2. Traitement d'une question numérique.  
+
+La question de l'âge pourrait être traitée comme la précédente. Cependant, il est plus percutant de **regrouper les réponses via des sous-totaux**. Pour faire des sous-totaux, on peut: 
+
+* **tab_subtotal_cells: cette fonction permet de faire des sous totaux et d'afficher la totalité des réponses ensuites**. 
+* **tab_net_cells: cette fonction permet d'afficher uniquement les sous-totaux.** C'est la seconde fonction que nous allons utiliser.
+
+Puis nous allons faire un **tableau avec les principales statistiques nécessaires (moyenne, maximum, minimum) via la fonction tab_stat_fct** (où vous pouvez remplacer le fct par la statistique que vous souhaitez). On a donc: 
+
+<br/>
+
+```{r, message=FALSE, warning=FALSE, eval=F}
+
+# Question numérique
+DataBase %>%
+  tab_cells(Q2) %>% # Question à traiter
+  tab_net_cells("Moins de 35 ans" = 18:34, "35-49 ans" = 35:49, "50-64 ans" = 50:64, "65 ans et plus" = 65:80, position = "top") %>% # Sous-Totaux
+  tab_stat_cases(total_row_position = "above") %>% # Effectif
+  tab_stat_cpct(total_statistic="u_cpct", total_row_position = "above") %>% # Pourcentage
+  tab_pivot(stat_position = "inside_columns") # Création de la table. 
+
+# Moyenne, max, min. 
+DataBase %>%
+  tab_cells(Q2) %>%
+  tab_stat_mean() %>%
+  tab_stat_max() %>%
+  tab_stat_min() %>%
+  tab_pivot() #
+
+```
+
+<br/>
+
+Ce premier tableau permet de voir qu'il y un peu plus d'un quart des personnes interrogées (27,9%) qui ont "65 ans et plus". Ce qui donne une moyenne d'âge assez haute (via le second tableau) de 49,7 ans.
+
+<br/>
+
+
+### 5.1.3. Traitement d'une question à choix multiple. 
+
+Le traitement de la question 3 nécessite de s'intéresser à la structure de la base de données: **chaque réponse à la question 3 est matérialisée par une colonne**. Il y a 13 colonnes (les 12 réponses de Facebook à Viadeo et la réponse "Aucun de ces réseaux"). **Chaque répondant qui sélectionne un réseau social vient remplir la colonne associée via un 1**. 
+
+Ainsi, **le traitement statistique nécessite d'agréger ces colonnes**. Dans le package expss, il faut **utiliser la fonction "mdset"** et de **stipuler les colonnes à agréger** (Q3A1%to%Q3A99). Ce qui donne:  
+
+```{r, message=FALSE, warning=FALSE, eval=F}
+
+# Adaptation des noms des variables.  
+DataBase = apply_labels(DataBase,
+                      Q1 = "Q1 : Genre", 
+                      Q2 = "Q2 : Age", 
+                      Q3A1 = "Q3 : Facebook",
+                      Q3A2 = "Q3 : Google +", 
+                      Q3A3 = "Q3 : Instagram", 
+                      Q3A4 = "Q3 : Linkedin", 
+                      Q3A5 = "Q3 : Periscope", 
+                      Q3A6 = "Q3 : Pinterest", 
+                      Q3A7 = "Q3 : Reddit", 
+                      Q3A8 = "Q3 : Snapchat", 
+                      Q3A9 = "Q3 : TikTok", 
+                      Q3A10 = "Q3 : Tumblr", 
+                      Q3A11 = "Q3 : Twitter",
+                      Q3A12 = "Q3 : Viadeo", 
+                      Q3A99 = "Q3 : Aucun de ces réseaux")
+
+
+# Question à choix multiple. 
+DataBase %>%
+  tab_cells(mdset(Q3A1%to%Q3A99)) %>% # Question à traiter
+  tab_stat_cases(total_row_position = "above") %>% # Effectif
+  tab_stat_cpct(total_statistic="u_cpct", total_row_position = "above") %>% # Pourcentage 
+  tab_pivot(stat_position = "inside_columns") # Création de la table. 
+
+```
+
+<br/>
+
+Twitter est donc le réseau social où il y a le plus d'inscrit (avec 47,2% des répondants inscrits). Pour **aller plus loin, nous allons nous demander combien de réseaux en moyenne les répondants sont inscrits**. Pour cela, il faut **créer une nouvelle colonne (Nombre_RS) qui va comptabiliser le nombre de réseau où le répondant s'est inscrit**. 
+
+Pour cela, on va utiliser deux fonctions : 
+
+* La **fonction "compute()": cette fonction permet de stocker les résultats dans une table temporaire**. 
+* La **fonction "sum_row()": cette dernière permet de calculer la somme d'une ligne sur plusieurs colonnes d'une matrice**. 
+
+Ce qui donne :
+
+```{r, message=FALSE, warning=FALSE, eval=F}
+
+# Ajout d'une colonne qui comptabilise le nombre de Réseaux Sociaux
+DataBase <- compute(DataBase, {
+  Nombre_RS = sum_row(Q3A1 %to% Q3A12)
+})
+
+# Moyenne, max, min. du nombre de réponse 
+DataBase %>%
+  tab_cells(Nombre_RS) %>%
+  tab_stat_mean() %>%
+  tab_stat_max() %>%
+  tab_stat_min() %>%
+  tab_pivot() #
+
+```
+
+<br/>
+
+Ce tableau permet de savoir qu'en moyenne, les répondants sont inscrits sur 4,9 réseaux. 
+
+<br/>
+
+
+### 5.1.4. Automatiser le traitement. 
+
+Le **traitement va être fastidieux si vous devez adapter votre code à chaque question. C'est ainsi qu'il vous faut automatiser (via la création de fonction personnelle) le traitement des questions du même type (Question fermée, question numérique, ...).**
+
+Dans le dernier article, je vous apprenais comment faire une fonction. Cette partie est l'occasion de pratiquer. Nous allons commencer par **l'automatisation du traitement d'une question fermée.** Il y a **deux éléments pour construire le tableau qui récapitule ce traitement : la base de données (DB) et la question à traiter (Q)**. 
+
+Il faut donc pour automatiser ce traitemant reprendre le code utilisé pour la question fermée et remplacer les variables spécifiques par des variables génériques (DB et Q). Il faudra ensuite préciser au moment où l'ont fait appel à cette fonction les variables nécessaires au traitement. Ainsi, la première variable - début du pipe - est la database (DB). La seconde variable est la question à traiter (Q). Idem pour la question numérique (sur l'âge). 
+
+Ainsi, on a : 
+
+```{r, message=FALSE, warning=FALSE, eval=F}
+
+# Création d'une fonction pour traiter une question fermée
+TAP_QF <- function(DB, Q) {
+
+ DB %>%
+    tab_cells(Q) %>%
+    tab_stat_cases(total_row_position = "above") %>% 
+    tab_stat_cpct(total_statistic="u_cpct", total_row_position = "above") %>% 
+    tab_pivot(stat_position = "inside_columns") }
+
+TAP_QF(DataBase, DataBase$Q1)
+
+
+# Création d'une fonction pour traiter une question numérique (Age)
+TAP_NumA <- function(DB, QQ) {
+  
+  DB %>%
+    tab_cells(Q2) %>% 
+    tab_net_cells("Moins de 35 ans" = 18:34, "35-49 ans" = 35:49, "50-64 ans" = 50:64, "65 ans et plus" = 65:80, position = "top") %>% 
+    tab_stat_cases(total_row_position = "above") %>% # Effectif
+    tab_stat_cpct(total_statistic="u_cpct", total_row_position = "above") %>% 
+    tab_pivot(stat_position = "inside_columns") }
+
+TAP_NumA(DataBase, DataBase$Q2)
+
+```
+
+<br/>
+
+Et pour avoir le traitement de la première question, il faut donc appeler cette nouvelle fonction (TAP_QF) avec les deux variables (la database, et la question à traiter). 
+
+<br/>
+
+### 5.1.5. Exporter le tris à plat sur Excel. 
+
+Vous venez de réaliser la première étape de votre traitement, le TAP. Il faut maintenant **l'exporter sur Excel pour l'envoyer à votre client**. Pour cela, il faut utiliser le package "openxlxs".
+
+Il faut : 
+
+1. Créer un fichier Excel via la fonction createWorkbook(). 
+2. Ajouter un onglet via la fonction sh = addWorksheet(). 
+3. On liste les tableaux à ajouter à l'Excel (auparavant, on aura définit chaque table comme un objet).
+4. On copie les tableaux sur l'onglet via la fonction xl_write(). 
+5. On sauvegarde l'Excel via la fonction saveWorkbook(). 
+
+Ce qui donne:
+
+```{r, message=FALSE, warning=FALSE, eval=F}
+
+# Création d'un Excel
+library(openxlsx)
+wb = createWorkbook()
+sh = addWorksheet(wb, "TAP")
+list_of_datasets <- list(Q1, Q2, Q2m, Q3, Q3m)
+xl_write(list_of_datasets, wb, sh)
+saveWorkbook(wb, "TAP.xlsx", overwrite = TRUE)
+
+```
+
+<br/>
+
+### 5.1.6. Conclusion. 
+
+Vous avez réalisé la première étape du traitement, le TAP. La seconde étape est de s'intéresser à la représentativité de votre échantillon. C'est ce que nous verrons dans le prochaine article. 
+
+Ci-dessous le code complet pour votre TAP: 
+
+```{r, message=FALSE, warning=FALSE, eval=F}
+
+
+# Packages nécessaires:
+library(readxl) # --> importer un fichier .xlsx. 
+library(expss) # --> TAP, TC, à la manière de SPSS. 
+
+
+# Téléchargement des données : 
+DataBase <- read_excel("C:/Users/audava/Pictures/Personnel/Blog/Traitement/DataBase.xlsx")
+
+
+# Adaptation des noms des variables.  
+DataBase = apply_labels(DataBase,
+                      Q1 = "Q1 : Genre", 
+                      Q2 = "Q2 : Age", 
+                      Q3A1 = "Q3 : Facebook",
+                      Q3A2 = "Q3 : Google +", 
+                      Q3A3 = "Q3 : Instagram", 
+                      Q3A4 = "Q3 : Linkedin", 
+                      Q3A5 = "Q3 : Periscope", 
+                      Q3A6 = "Q3 : Pinterest", 
+                      Q3A7 = "Q3 : Reddit", 
+                      Q3A8 = "Q3 : Snapchat", 
+                      Q3A9 = "Q3 : TikTok", 
+                      Q3A10 = "Q3 : Tumblr", 
+                      Q3A11 = "Q3 : Twitter",
+                      Q3A12 = "Q3 : Viadeo", 
+                      Q3A99 = "Q3 : Aucun de ces réseaux")
+
+
+# Adaptation des variables - Q1.  
+val_lab(DataBase$Q1) = num_lab("
+    1 Homme
+    2 Femme ")
+
+
+# Création de notre première table. 
+DataBase %>%
+  tab_cells(Q1) %>% # Question à jouer.
+  tab_stat_cases() %>% # Effectif
+  tab_pivot()
+
+
+# Ajout des pourcentages sur le côté gauche. 
+Q1 = DataBase %>%
+  tab_cells(Q1) %>% # Question à traiter
+  tab_stat_cases(total_row_position = "above") %>% # Effectif
+  tab_stat_cpct(total_statistic="u_cpct", total_row_position = "above") %>% # Pourcentage 
+  tab_pivot(stat_position = "inside_columns") # Création de la table. 
+
+# Question numérique
+Q2 = DataBase %>%
+  tab_cells(Q2) %>% # Question à traiter
+  tab_net_cells("Moins de 35 ans" = 18:34, "35-49 ans" = 35:49, "50-64 ans" = 50:64, "65 ans et plus" = 65:80, position = "top") %>% # Sous-Totaux
+  tab_stat_cases(total_row_position = "above") %>% # Effectif
+  tab_stat_cpct(total_statistic="u_cpct", total_row_position = "above") %>% # Pourcentage
+  tab_pivot(stat_position = "inside_columns") # Création de la table. 
+
+# Moyenne, max, min. 
+Q2m = DataBase %>%
+  tab_cells(Q2) %>%
+  tab_stat_mean() %>%
+  tab_stat_max() %>%
+  tab_stat_min() %>%
+  tab_pivot() #
+
+
+# Question à choix multiple. 
+Q3 = DataBase %>%
+  tab_cells(mdset(Q3A1%to%Q3A99)) %>% # Question à traiter
+  tab_stat_cases(total_row_position = "above") %>% # Effectif
+  tab_stat_cpct(total_statistic="u_cpct", total_row_position = "above") %>% # Pourcentage 
+  tab_pivot(stat_position = "inside_columns") # Création de la table. 
+
+
+# Ajout d'une colonne qui comptabilise le nombre de Réseaux Sociaux
+DataBase <- compute(DataBase, {
+  Nombre_RS = sum_row(Q3A1 %to% Q3A12)
+})
+
+
+# Moyenne, max, min. du nombre de réponse 
+Q3m = DataBase %>%
+  tab_cells(Nombre_RS) %>%
+  tab_stat_mean() %>%
+  tab_stat_max() %>%
+  tab_stat_min() %>%
+  tab_pivot() #
+
+
+# Création d'une fonction pour traiter une question fermée
+TAP_QF <- function(DB, Q) {
+  
+  DB %>%
+    tab_cells(Q) %>%
+    tab_stat_cases(total_row_position = "above") %>% 
+    tab_stat_cpct(total_statistic="u_cpct", total_row_position = "above") %>% 
+    tab_pivot(stat_position = "inside_columns")}
+
+TAP_QF(DataBase, DataBase$Q1)
+
+# Création d'une fonction pour traiter une question numérique (Age)
+TAP_NumA <- function(DB, QQ) {
+  
+  DB %>%
+    tab_cells(Q2) %>% 
+    tab_net_cells("Moins de 35 ans" = 18:34, "35-49 ans" = 35:49, "50-64 ans" = 50:64, "65 ans et plus" = 65:80, position = "top") %>% 
+    tab_stat_cases(total_row_position = "above") %>% # Effectif
+    tab_stat_cpct(total_statistic="u_cpct", total_row_position = "above") %>% 
+    tab_pivot(stat_position = "inside_columns") }
+
+TAP_NumA(DataBase, DataBase$Q2)
+
+
+# Création d'un Excel
+library(openxlsx)
+wb = createWorkbook()
+sh = addWorksheet(wb, "Tables")
+list_of_datasets <- list(Q1, Q2, Q2m, Q3, Q3m)
+xl_write(list_of_datasets, wb, sh)
+saveWorkbook(wb, "TAP.xlsx", overwrite = TRUE)
+
+```
+
