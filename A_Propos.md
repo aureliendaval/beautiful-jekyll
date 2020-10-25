@@ -13,13 +13,13 @@ _<font size="3"> Janv 2019 - Aujourd'hui (1 an et 6 mois) - Thalys </font>_
 
 Cette expérience au Service A Bord - en charge de la supervision de la chaine logistique pour la classe Premium - a été l'opportunité de décortiquer les différentes bases de données afin d'**évaluer la performance du service et les opportunités d'amélioration de la qualité/rentabilité**. En détail: 
 
-* Construire et suivre les KPI au jour le jour : Taux de service des passagers, taux de service corrigé, bar fermé, TA absent, plateaux jetés. Consolider les données mois par mois. Mettre en place des actions correctives. 
-* Analyses Ad’hoc : mesurer le gaspillage à bord et mettre en place des solutions pour le réduire. 
+* Construire et suivre les KPI au jour le jour : taux de service des passagers, taux de service corrigé, bar fermé, TA absent, plateaux jetés. Consolider les données mois par mois. Mettre en place des actions correctives. 
+* Analyses Ad’hoc : mesurer le gaspillage à bord, mettre en place des solutions pour le réduire. 
 * Management du système de prévision : suivre les rapports de performance, amélioration continue avec l’ajout de variables.
 * SLA : Mise en place de calculs automatiques pour trouver des irrégularités et augmenter le volume des amendes. 
 * Centraliser les données journalières envoyées par e-mail en une base de données grâce à VBA. 
 
-La crise du Covid 19 (baisse du nombre de passagers et des revenus associés) a modifié l'appel d'offre pour les contrats 2021/2022: l'ensemble de la chaine logistique pour mener un plan d'économie. 
+La crise du Covid 19 (baisse du nombre de passagers et des revenus associés) a modifié l'appel d'offre pour les contrats 2021/2022: l'ensemble de la chaine logistique a été revue pour mener un plan d'économie. 
 
 * Disséquer la chaine logistique et identifier les leviers d'économie. 
 * Participer à l'écriture de l'expression de besoin et du cahier des charges. 
