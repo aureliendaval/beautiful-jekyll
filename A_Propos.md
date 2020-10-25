@@ -4,7 +4,9 @@ title: Mon parcours
 subtitle: Expérience professionnelle et compétences 
 ---
 
-Je suis un expert en **traitement, interprétation et visualisation de l'information** pour **vous accompagner dans vos prises de décisions stratégiques**. Mon expérience au sein d'instituts d'étude de marché (Sky consulting, Audirep) a été l'opportunité de découvrir **plusieurs secteurs et méthodologies d'analyse**. Mon expérience dans une grande entreprise (Thalys) m'a permis d'aller plus loin avec la mise en place - après analyse - de **processus d'amélioration continue**. 
+Je suis un expert en **traitement, interprétation et visualisation de l'information** pour **vous accompagner dans vos prises de décisions stratégiques**. Mon expérience au sein d'instituts d'étude de marché (Sky consulting, Audirep) a été l'opportunité de découvrir **plusieurs secteurs et méthodologies d'analyse**. Mon expérience dans une grande entreprise (Thalys) m'a permis d'aller plus loin avec la mise en place - après analyse - de **processus d'amélioration continue**. La crise du Covid 19 (baisse du nombre de passagers et des revenus associés) a modifié l'appel d'offre : l'ensemble de la chaine logistique pour mener un plan d'économie. 
+
+
 
 <br/>
 
@@ -19,9 +21,12 @@ Cette expérience au Service A Bord - en charge de la supervision de la chaine l
 * SLA : Mise en place de calculs automatiques pour trouver des irrégularités et augmenter le volume des amendes. 
 * Centraliser les données journalières envoyées par e-mail en une base de données grâce à VBA. 
 
-La crise du Covid 19 (baisse du nombre de passagers et des revenus associés) a imposé au Service à Bord de Thalys de revoir l'ensemble de la chaine logistique pour atteindre les économes nécessaires à 
-* Cons
-* Cons
+Les 
+
+* Analyser la chaine logistique et identifier les leviers d'économie. 
+* Participer à l'écriture de l'expression de besoin et du cahier des charges. 
+* Participer aux négociations avec les prestataires. 
+* Participer aux ateliers de travail avec les prestataires pour mener à bien la transition du nouveau schéma logistique. 
 
 **Formation "Leadership et gestion d’équipes"** via *www.game-learn.com* en décembre 2019 (Pacific Game). 
 
