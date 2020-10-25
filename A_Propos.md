@@ -4,7 +4,7 @@ title: Mon parcours
 subtitle: Expérience professionnelle et compétences 
 ---
 
-Je suis un expert en **traitement, interprétation et visualisation de l'information** pour **vous accompagner dans vos prises de décisions stratégiques**. Mon expérience au sein d'instituts d'étude de marché (Sky consulting, Audirep) a été l'opportunité de découvrir **plusieurs secteurs et méthodologies d'analyse**. Mon expérience dans une grande entreprise (Thalys) m'a permis d'aller plus loin avec la mise en place - après analyse - de **processus d'amélioration continue**.
+Je suis un expert en **traitement, interprétation et visualisation de l'information** pour **vous accompagner dans vos prises de décisions stratégiques**. Mon expérience au sein d'instituts d'étude de marché (Sky consulting, Audirep) a été l'opportunité de découvrir **plusieurs secteurs et méthodologies d'analyse**. Mon expérience dans une grande entreprise (Thalys) m'a permis d'aller plus loin avec la mise en place - après analyse - de **processus d'amélioration continue**. 
 
 <br/>
 
@@ -18,6 +18,8 @@ Cette expérience au Service A Bord - en charge de la supervision de la chaine l
 * Management du système de prévision : suivre les rapports de performance, amélioration continue avec l’ajout de variables.
 * SLA : Mise en place de calculs automatiques pour trouver des irrégularités et augmenter le volume des amendes. 
 * Centraliser les données journalières envoyées par e-mail en une base de données grâce à VBA. 
+
+
 
 **Formation "Leadership et gestion d’équipes"** via *www.game-learn.com* en décembre 2019 (Pacific Game). 
 
