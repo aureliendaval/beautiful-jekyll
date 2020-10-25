@@ -11,17 +11,16 @@ Je suis un expert en **traitement, interprétation et visualisation de l'informa
 # <i class="fas fa-tachometer-alt"></i> Business Analyst
 _<font size="3"> Janv 2019 - Aujourd'hui (1 an et 6 mois) - Thalys </font>_
 
-Cette expérience au Service A Bord - en charge de la supervision de la chaine logistique pour la classe Premium - a été l'opportunité de décortiquer les différentes bases de données afin d'**évaluer la performance du service et les opportunités d'amélioration de la qualité/rentabilité**. En détail: 
+Cette expérience au Service A Bord - en charge de la supervision de la chaine logistique pour la classe Premium - m'a permis de décortiquer les différentes bases de données afin d'**évaluer la performance du service et les opportunités d'amélioration de la qualité/rentabilité**. En détail: 
 
-* Construire et suivre les KPI au jour le jour : taux de service des passagers, taux de service corrigé, Train Attendant absent. Consolider les données mois par mois. Centraliser les données multiples en une base de données grâce à VBA. 
+* Construire et suivre les KPI au jour le jour : taux de service des passagers, taux de service corrigé, Train Attendant absent. Consolider les données mois par mois. Centraliser les données quotidiennes en une seule base de données grâce à VBA. 
 * Analyses Ad’hoc : mesurer le gaspillage à bord et mettre en place des solutions pour le réduire. 
 * Management du système de prévision : suivre les rapports de performance, amélioration continue avec l’ajout de variables.
-* SLA : Mise en place de calculs automatiques pour trouver des irrégularités.  
-* Centraliser les données en une base de données grâce à VBA. 
+* Gestion du contrat du Centre d'Avitaillement : Suivi des SLA, 
 
-La crise du Covid 19 (baisse du nombre de passagers et des revenus associés) a modifié l'appel d'offre pour les contrats 2021/2022: l'ensemble de la chaine logistique a été revue pour mener un plan d'économie. 
+La crise du Covid 19 (baisse du nombre de passagers et des revenus associés) a modifié l'appel d'offre pour les contrats 2021/2022: un plan d'économie a été mis en place et l'ensemble de la chaine logistique a été revue pour atteindre cet objectif. 
 
-* Disséquer la chaine logistique et identifier les leviers d'économie. 
+* Disséquer la chaine logistique et identifier les leviers d'économie (tout en conservant la robustesse du modèle). 
 * Participer à l'écriture de l'expression de besoin et du cahier des charges. 
 * Participer aux négociations avec les prestataires. 
 * Participer aux ateliers de travail avec les prestataires pour mener à bien la transition vers le nouveau schéma logistique. 
