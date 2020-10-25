@@ -4,7 +4,7 @@ title: Mon parcours
 subtitle: Expérience professionnelle et compétences 
 ---
 
-Je suis un expert en **traitement, interprétation et visualisation de l'information** pour **vous accompagner dans vos prises de décisions stratégiques**. Mon expérience au sein d'instituts d'étude de marché (Sky consulting, Audirep) a été l'opportunité de découvrir **plusieurs secteurs et méthodologies d'analyse**. Mon expérience dans une grande entreprise (Thalys) m'a permis de mettre en place les Insights issus des analyses passagers dans un **processus d'amélioration continue**.
+Je suis un expert en **traitement, interprétation et visualisation de l'information** pour **vous accompagner dans vos prises de décisions stratégiques**. Mon expérience au sein d'instituts d'étude de marché (Sky consulting, Audirep) a été l'opportunité de découvrir **plusieurs secteurs et méthodologies d'analyse**. Mon expérience dans une grande entreprise (Thalys) m'a permis de mettre en pratique  **processus d'amélioration continue**. Enfin, la crise du Covid 19
 
 <br/>
 
@@ -13,7 +13,6 @@ _<font size="3"> Janv 2019 - Aujourd'hui (1 an et 6 mois) - Thalys </font>_
 
 Cette expérience au Service A Bord - en charge de la supervision de la chaine logistique pour la classe Premium - a été l'opportunité de décortiquer les différentes bases de données afin d'**évaluer la performance du service et les opportunités d'amélioration de la rentabilité**. En détail: 
 
-* Contribution aux réflexions d'évolution de la chaine logistique (Rédaction d'expression de besoins) et aux négociations avec les prestataires. 
 * Construire et suivre les KPI au jour le jour : Taux de service des passagers, taux de service corrigé, bar fermé, TA absent, plateaux jetés. Consolider les données mois par mois. Mettre en place des actions correctives. 
 * Analyses Ad’hoc : mesurer le gaspillage à bord et mettre en place des solutions pour le réduire. 
 * Management du système de prévision : suivre les rapports de performance, amélioration continue avec l’ajout de variables.
