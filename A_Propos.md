@@ -15,8 +15,8 @@ Cette expérience au Service A Bord - en charge de la supervision de la chaine l
 
 * Construire et suivre les KPI au jour le jour : taux de service des passagers, taux de service corrigé, Train Attendant absent. Consolider les données mois par mois. Centraliser les données quotidiennes en une seule base de données grâce à VBA. 
 * Analyses Ad’hoc : mesurer le gaspillage à bord et mettre en place des solutions pour le réduire. 
-* Management du système de prévision : suivre les rapports de performance, amélioration continue avec l’ajout de variables.
-* Gestion du contrat du Centre d'Avitaillement : Suivi des SLA, 
+* Management du prestataire de prevision : suivre les rapports de performance, amélioration continue avec l’ajout de variables.
+* Gestion du contrat du Centre d'Avitaillement : Modification des procédures, Suivi des SLA.  
 
 La crise du Covid 19 (baisse du nombre de passagers et des revenus associés) a modifié l'appel d'offre pour les contrats 2021/2022: un plan d'économie a été mis en place et l'ensemble de la chaine logistique a été revue pour atteindre cet objectif. 
 
