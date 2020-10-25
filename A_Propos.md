@@ -23,10 +23,10 @@ Cette expérience au Service A Bord - en charge de la supervision de la chaine l
 
 Les 
 
-* Analyser la chaine logistique et identifier les leviers d'économie. 
+* Disséquer la chaine logistique et identifier les leviers d'économie. 
 * Participer à l'écriture de l'expression de besoin et du cahier des charges. 
 * Participer aux négociations avec les prestataires. 
-* Participer aux ateliers de travail avec les prestataires pour mener à bien la transition du nouveau schéma logistique. 
+* Participer aux ateliers de travail avec les prestataires pour mener à bien la transition vers le nouveau schéma logistique. 
 
 **Formation "Leadership et gestion d’équipes"** via *www.game-learn.com* en décembre 2019 (Pacific Game). 
 
