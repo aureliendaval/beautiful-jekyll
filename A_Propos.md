@@ -18,7 +18,7 @@ Cette expérience au Service A Bord - en charge de la supervision de la chaine l
 * Management du prestataire de prevision : suivre les rapports de performance, amélioration continue avec l’ajout de variables.
 * Gestion du contrat du Centre d'Avitaillement : modification des procédures, suivi des SLA.  
 
-La crise du Covid 19 (baisse du nombre de passagers et des revenus associés) a modifié l'appel d'offre pour les contrats 2021/2022: un plan d'économie a été activé et **l'ensemble de la chaine logistique a été revue pour atteindre cet objectif de réudction des coûts**. 
+La crise du Covid 19 (baisse du nombre de passagers et des revenus associés) a modifié l'appel d'offre pour les contrats 2021/2022: un plan d'économie a été activé et **l'ensemble de la chaine logistique a été revue pour atteindre cet objectif de réduction des coûts**. 
 
 * Modélisation d'un nouveau modèle logistique (baisse des coûts tout en conservant un modèle robuste). 
 * Participer à l'écriture de l'expression de besoin et du cahier des charges. 
