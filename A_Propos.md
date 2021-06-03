@@ -4,18 +4,14 @@ title: Mon parcours
 subtitle: Expérience professionnelle et compétences 
 ---
 
-[justify]
+\begin{document}
     
 Je suis un expert en **traitement, interprétation et visualisation de l'information** pour **accompagner les entreprises dans leurs prises de décisions stratégiques**. Mon expérience au sein d'instituts d'étude de marché (Sky consulting, Audirep) a été l'opportunité de découvrir **plusieurs secteurs et méthodologies d'analyse**. Mon expérience dans une grande entreprise (Thalys) m'a permis d'aller plus loin dans l'analyse avec la mise en place de **processus d'amélioration continue**.
-
-[/justify]
 
 <br/>
 
 # <i class="fas fa-tachometer-alt"></i> Business Analyst
 _<font size="3"> Janv 2019 - Aujourd'hui (2 ans et 2 mois) - Thalys </font>_
-
-[justify]
 
 Cette expérience au Service A Bord - en charge de la supervision de la chaine logistique de la classe Premium - m'a permis de décortiquer les différentes bases de données afin d'**évaluer la performance du service et les opportunités d'amélioration de la qualité/rentabilité**. En détail: 
 
@@ -33,8 +29,6 @@ La crise du Covid 19 (baisse du nombre de passagers et des revenus associés) a 
 
 **Formation "Leadership et gestion d’équipes"** via *www.game-learn.com* en décembre 2019 (Pacific Game). 
 
-[/justify]
-    
 <br/>
 
 # <i class="far fa-chart-bar"></i> Chargé d'études quantitatives
@@ -75,3 +69,4 @@ _<font size="3"> Spécialité Chargé d'études économiques - Diplômé en 2015
 * Mémoire en Théorie des Jeux : science d'analyse qui permet d'étudier l'environnement concurrentiel et les leviers d’action afin de déterminer la stratégie optimale.
 * **Classe préparatoire ENS Cachan D2** - Lycée Pergaud - Besançon - 2 ans. 
 
+\end{document}
