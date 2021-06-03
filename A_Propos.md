@@ -4,8 +4,8 @@ title: Mon parcours
 subtitle: Expérience professionnelle et compétences 
 ---
 
-\begin{document}
-    
+<style> 
+
 Je suis un expert en **traitement, interprétation et visualisation de l'information** pour **accompagner les entreprises dans leurs prises de décisions stratégiques**. Mon expérience au sein d'instituts d'étude de marché (Sky consulting, Audirep) a été l'opportunité de découvrir **plusieurs secteurs et méthodologies d'analyse**. Mon expérience dans une grande entreprise (Thalys) m'a permis d'aller plus loin dans l'analyse avec la mise en place de **processus d'amélioration continue**.
 
 <br/>
@@ -69,4 +69,4 @@ _<font size="3"> Spécialité Chargé d'études économiques - Diplômé en 2015
 * Mémoire en Théorie des Jeux : science d'analyse qui permet d'étudier l'environnement concurrentiel et les leviers d’action afin de déterminer la stratégie optimale.
 * **Classe préparatoire ENS Cachan D2** - Lycée Pergaud - Besançon - 2 ans. 
 
-\end{document}
+{text-align: justify} </style>
